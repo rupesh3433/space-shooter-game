@@ -17,9 +17,9 @@ RED = (255, 0, 0)
 GREEN = (0, 255, 0)
 
 # Load assets
-player_img = pygame.image.load("player_img.png")
-enemy_img = pygame.image.load("enemy_img.png")
-bullet_img = pygame.image.load("bullet_img.png")
+player_img = pygame.image.load("images/player_img.png")
+enemy_img = pygame.image.load("images/enemy_img.png")
+bullet_img = pygame.image.load("images/bullet_img.png")
 
 # Scale images
 player_img = pygame.transform.scale(player_img, (80, 80))

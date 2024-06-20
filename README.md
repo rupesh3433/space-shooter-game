@@ -1,6 +1,6 @@
 # Space Shooter Game
 
-![Gameplay Screenshot](screenshot.png)
+![Gameplay Screenshot](images/gameplay_screenshot.png)
 
 ## Description
 
