@@ -40,7 +40,7 @@ last_bullet_time = pygame.time.get_ticks()
 # Enemies
 enemies = []
 enemy_speed = 2
-enemy_spawn_time = 80  # Number of frames between enemy spawns
+enemy_spawn_time = 70  # Number of frames between enemy spawns
 enemy_timer = 0
 
 # Main loop
